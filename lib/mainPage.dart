@@ -250,7 +250,7 @@ class _MainPageState extends State<MainPage> {
                                                           users.doc().update(gantiNama.text as Map<Object, Object?>);
                                                           Navigator.of(context).pop();
                                                         },
-                                                        child: Text('Ganti'),
+                                                        child: Text('Update'),
                                                       ),
                                                     ],
                                                   );

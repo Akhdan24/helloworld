@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964905828059",
+    "project_id": "helloworld-a8740",
+    "storage_bucket": "helloworld-a8740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964905828059:android:3ba78746b2c47ffe0f96fe",
+        "android_client_info": {
+          "package_name": "com.akhdan.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964905828059-8h3o1icc2ipbommfnr1mebhjoi1c1cd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmDT8lXtVdtLCs0dVg94X4HfnAGd4gG9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964905828059-8h3o1icc2ipbommfnr1mebhjoi1c1cd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

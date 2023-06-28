@@ -247,7 +247,6 @@ class _MainPageState extends State<MainPage> {
                                                     actions: [
                                                       TextButton(
                                                         onPressed: () {
-                                                          users.doc().update(gantiNama.text as Map<Object, Object?>);
                                                           Navigator.of(context).pop();
                                                         },
                                                         child: Text('Update'),
